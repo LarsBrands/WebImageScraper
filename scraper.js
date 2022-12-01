@@ -72,5 +72,5 @@ const scrape_page = async (url, selector) => {
 }
 
 const url = '';
-const selector = '[data-fancybox-type]';
+const selector = ''; // <- Jquery selector
 scrape_page(url, selector);
