@@ -1,0 +1,11 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "node-scraper.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.0"
+  }
+}
